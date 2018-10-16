@@ -10,14 +10,14 @@
         {
             "image":"http://i.imgur.com/gUyjUUH.jpg",
             "location_txt":"Glacier National Park",
-            "location_url":"https://www.nps.gov/glac/index.htm",
+            "location_url":"",
             "artistname_txt":"DennisonLim",
             "artistname_url":"http://www.dennisonlim.com"
         },
         {
             "image":"http://i.imgur.com/UfWTCky.jpg",
             "location_txt":"Peyto Lake, Canada",
-            "location_url":"https://en.wikipedia.org/wiki/Peyto_Lake",
+            "location_url":"",
             "artistname_txt":"Destin",
             "artistname_url":"http://www.destinsparks.com"
         },
@@ -45,7 +45,7 @@
         {
             "image":"http://i.imgur.com/EFgoj4p.jpg",
             "location_txt":"St. Johns Bridge, Maine",
-            "location_url":"https://en.wikipedia.org/wiki/St._Johns_Bridge",
+            "location_url":"",
             "artistname_txt":"jdphotopdx",
             "artistname_url":"https://www.jdphotopdx.com"
         },
@@ -59,14 +59,14 @@
         {
             "image":"http://i.imgur.com/h0xLF3X.jpg",
             "location_txt":"Moraine Lake",
-            "location_url":"https://500px.com/destin_sparks",
+            "location_url":"",
             "artistname_txt":"Destin Sparks",
             "artistname_url":"http://www.destinsparks.com"
         },
         {
             "image":"http://i.imgur.com/Os22oDC.jpg",
             "location_txt":"Northern Lights on Iceland",
-            "location_url":"https://www.northernlightsiceland.com/the-best-time-to-see-th",
+            "location_url":"",
             "artistname_txt":"Dominic Kamp",
             "artistname_url":"http://www.dominickamp.de/"
         },
@@ -94,7 +94,7 @@
         {
             "image":"http://i.imgur.com/22MkR6t.jpg",
             "location_txt":"Antelope Canyon",
-            "location_url":"https://en.wikipedia.org/wiki/Antelope_Canyon",
+            "location_url":"",
             "artistname_txt":"Philippe Clairo",
             "artistname_url":"http://www.philippephotography.com"
         },
@@ -108,49 +108,49 @@
         {
             "image":"http://i.imgur.com/3Oj7Psm.jpg",
             "location_txt":"Yosemite Valley Chapel",
-            "location_url":"https://interfacelift.com/wallpaper/details/4096/g",
+            "location_url":"",
             "artistname_txt":"Ninie",
             "artistname_url":"https://interfacelift.com/user/123197/ninie.html"
         },
         {
             "image":"http://i.imgur.com/hHOMZKa.jpg",
             "location_txt":"Hafen City Hamburg",
-            "location_url":"https://interfacelift.com/user/49901/claudiotesta.htm",
+            "location_url":"",
             "artistname_txt":"ClaudioTesta",
             "artistname_url":"https://www.facebook.com/testaphotographs/"
         },
         {
             "image":"http://i.imgur.com/E9vpc5B.jpg",
             "location_txt":"Riomaggiore At Sunset",
-            "location_url":"https://interfacelift.com/wall",
+            "location_url":"",
             "artistname_txt":"Matteo Ripamonti",
             "artistname_url":"https://interfacelift.com/user/124458/matteoripamonti.html"
         },
         {
             "image":"http://i.imgur.com/uWnXKQT.jpg",
             "location_txt":"Church of the Good Shepherd",
-            "location_url":"https://interfacelift.com/wallpape",
+            "location_url":"",
             "artistname_txt":"Kynan Dwyer",
             "artistname_url":"https://interfacelift.com/user/68723/kynan_dwyer.html"
         },
         {
             "image":"http://i.imgur.com/6BCYzFM.jpg",
             "location_txt":"Lagoon Nebula",
-            "location_url":"https://interfacelift.com/wallpaper/details/4081/lagoon_nebula.html",
+            "location_url":"",
             "artistname_txt":"Dominic Kamp",
             "artistname_url":"http://www.dominickamp.de"
         },
         {
             "image":"http://i.imgur.com/lTPiuWM.jpg",
             "location_txt":"Alcázar of Seville, Spain",
-            "location_url":"https://en.wikipedia.org/wiki/Alc%C3%A1zar_of_",
+            "location_url":"",
             "artistname_txt":"Bertrand",
             "artistname_url":"https://www.flickr.com/photos/bertrand-perron/"
         },
         {
             "image":"http://i.imgur.com/8MrOMt8.jpg",
             "location_txt":"Church of the Good Shepherd",
-            "location_url":"https://www.churchofthegoodshepherd.org.nz",
+            "location_url":"",
             "artistname_txt":"Kynan Dwyer",
             "artistname_url":""
         },
@@ -171,7 +171,7 @@
         {
             "image":"http://i.imgur.com/6U1KVu4.jpg",
             "location_txt":"Nyhavn, Copenhagen",
-            "location_url":"https://en.wikipedia.org/w",
+            "location_url":"",
             "artistname_txt":"babaouls",
             "artistname_url":"https://interfacelift.com/wallpaper/details/4168/nyhavn_-_copenhagen.html"
         },
@@ -185,14 +185,14 @@
         {
             "image":"http://i.imgur.com/RTkJlu0.jpg",
             "location_txt":"Orange Icebergs, Alaska",
-            "location_url":"https://interfacelift.com/wallpaper/details/4178/orange_iceber",
+            "location_url":"",
             "artistname_txt":"Jarred Decker",
             "artistname_url":"https://www.jdphotopdx.com/"
         },
         {
             "image":"http://i.imgur.com/Ib7tY3g.jpg",
             "location_txt":"Enoshima, Japan",
-            "location_url":"https://interfacelift.com/user/126231/takashi_miya",
+            "location_url":"",
             "artistname_txt":"Takashi Miyazaki",
             "artistname_url":"https://www.flickr.com/photos/159398405@N03/"
         },
@@ -227,70 +227,70 @@
         {
             "image":"http://i.imgur.com/SrUfAHZ.jpg",
             "location_txt":"Stars Night Sky",
-            "location_url":"https://www.pexels.com/photo/clouds-dark-evening-night-414727/",
+            "location_url":"",
             "artistname_txt":"",
             "artistname_url":"https://pixabay.com/en/users/G4889166-4889166/"
         },
         {
             "image":"http://i.imgur.com/Yp22kAX.jpg",
             "location_txt":"Arc de Triomphe, France",
-            "location_url":"http://www.paris-arc-de-triomphe.fr",
+            "location_url":"",
             "artistname_txt":"Burak AYDIN",
             "artistname_url":"https://www.pexels.com/photo/grey-arc-de-triumph-224756/"
         },
         {
             "image":"http://i.imgur.com/yBLip6Q.jpg",
             "location_txt":"Sky Lanterns",
-            "location_url":"https://www.pexels.com/ph",
+            "location_url":"",
             "artistname_txt":"Rebecca Swafford",
             "artistname_url":"https://www.pexels.com/photo/celebration-christmas-dark-festival-625789/"
         },
         {
             "image":"http://i.imgur.com/Nop3DSD.jpg",
             "location_txt":"Piazza San Marco",
-            "location_url":"https://bit.ly/2CI4uqQ",
+            "location_url":"",
             "artistname_txt":"Anonymous",
             "artistname_url":"https://bit.ly/2CI4uqQ"
         },
         {
             "image":"http://i.imgur.com/wjUCkjk.jpg",
             "location_txt":"Cinque Terre, Italy",
-            "location_url":"https://en.wikipedia.org/wiki/Cinque_Terre",
+            "location_url":"",
             "artistname_txt":"Anonymous",
             "artistname_url":""
         },
         {
             "image":"http://i.imgur.com/H2KlQaC.jpg",
             "location_txt":"Blue Aurora Borealis",
-            "location_url":"https://bit.ly/2IRIpWX",
+            "location_url":"",
             "artistname_txt":"Stefan Stefancik ",
             "artistname_url":"https://instagram.com/stefancikphotography/"
         },
         {
             "image":"http://i.imgur.com/wmvp4Gr.jpg",
             "location_txt":"Concrete Structure Near Body of Water",
-            "location_url":"https://bit.ly/2yEeSv9",
+            "location_url":"",
             "artistname_txt":"Oleksandr Pidvalnyi ",
             "artistname_url":"https://instagram.com/alexandr_podvalny/"
         },
         {
             "image":"http://i.imgur.com/4l7GjDl.jpg",
             "location_txt":"Modernos centros comerciales",
-            "location_url":"http://leafimagepicxes.pw/Modernos-centros-comerciales-de-Berln-Malls-t-Mall.html",
+            "location_url":"",
             "artistname_txt":"Anonymous",
             "artistname_url":""
         },
         {
             "image":"http://i.imgur.com/O7ax8hd.jpg",
             "location_txt":"Eiffel Tower, France",
-            "location_url":"https://bit.ly/2naSqXH",
+            "location_url":"",
             "artistname_txt":"Thorsten technoman",
             "artistname_url":"https://www.pexels.com/@thorsten-technoman-109353"
         },
         {
             "image":"http://i.imgur.com/MgN9J18.jpg",
             "location_txt":"Wooden House",
-            "location_url":"https://bit.ly/2QO1j42",
+            "location_url":"",
             "artistname_txt":"Anonymous",
             "artistname_url":"https://bit.ly/2QO1j42"
         },
@@ -304,147 +304,147 @@
         {
             "image":"http://i.imgur.com/TKKaJ4p.jpg",
             "location_txt":"Autumn",
-            "location_url":"https://www.pexels.com/photo/train-passing-773471/",
+            "location_url":"",
             "artistname_txt":"H. Emre",
             "artistname_url":"https://instagram.com/hebaysal/?hl=tr/"
         },
         {
             "image":"http://i.imgur.com/4mBz5wQ.jpg",
             "location_txt":"Sunset Ocean Island",
-            "location_url":"https://bit.ly/2Eg0cIH",
+            "location_url":"",
             "artistname_txt":"Johannes Plenio",
             "artistname_url":"https://www.pexels.com/@jplenio"
         },
         {
             "image":"http://i.imgur.com/zNIRPJc.jpg",
             "location_txt":"Walt Disney Concert Hall, LA",
-            "location_url":"https://bit.ly/2RKQoZY",
+            "location_url":"",
             "artistname_txt":"IIP Photo Archive",
             "artistname_url":"https://bit.ly/2OnkLaN"
         },
         {
             "image":"http://i.imgur.com/P6gslhJ.jpg",
             "location_txt":"Highrise Building",
-            "location_url":"https://bit.ly/2EjT91K",
+            "location_url":"",
             "artistname_txt":"Robert Stokoe",
             "artistname_url":"https://www.instagram.com/rokoe4436/"
         },
         {
             "image":"http://i.imgur.com/Asf8A64.jpg",
             "location_txt":"Fiordland National Park",
-            "location_url":"https://bit.ly/2Py0sUD",
+            "location_url":"",
             "artistname_txt":"Julius Silver",
             "artistname_url":"https://pixabay.com/en/users/Julius_Silver-4371822"
         },
         {
             "image":"http://i.imgur.com/ODpdfRD.jpg",
             "location_txt":"Whethan Radar",
-            "location_url":"https://bit.ly/2ITsdoc",
+            "location_url":"",
             "artistname_txt":"Eberhard Grossgasteiger",
             "artistname_url":"https://www.pexels.com/@eberhardgross"
         },
         {
             "image":"http://i.imgur.com/5QvqBkZ.jpg",
             "location_txt":"Pragser Wildsee",
-            "location_url":"https://unsplash.com/photos/ygn9SCQRATg",
+            "location_url":"",
             "artistname_txt":"Ales Krivec",
             "artistname_url":"https://unsplash.com/@aleskrivec"
         },
         {
             "image":"http://i.imgur.com/ySpuK2Q.jpg",
             "location_txt":"Light Road Landscape",
-            "location_url":"https://bit.ly/1Mx7YvW",
+            "location_url":"",
             "artistname_txt":"Anonymous",
             "artistname_url":"https://bit.ly/1Mx7YvW"
         },
         {
             "image":"http://i.imgur.com/7Sj5bX2.jpg",
             "location_txt":"Pudong Skyline, Shanghai ",
-            "location_url":"https://unsplash.com/photos/f0rohrsrtLE",
+            "location_url":"",
             "artistname_txt":"Palon Youth",
             "artistname_url":"https://unsplash.com/@palon"
         },
         {
             "image":"http://i.imgur.com/8bYwfJ8.jpg",
             "location_txt":"Cold Dark Eerie Environment",
-            "location_url":"https://bit.ly/2OYF1PA",
+            "location_url":"",
             "artistname_txt":"Anonymous",
             "artistname_url":"https://bit.ly/2OYF1PA"
         },
         {
             "image":"http://i.imgur.com/jBmhrwD.jpg",
             "location_txt":"Moraine Lake",
-            "location_url":"https://bit.ly/2EHbAgB",
+            "location_url":"",
             "artistname_txt":"James Wheeler",
             "artistname_url":"https://www.pexels.com/@souvenirpixels"
         },
         {
             "image":"http://i.imgur.com/p9yeRc8.jpg",
             "location_txt":"Milwaukee Art Museum",
-            "location_url":"https://bit.ly/2hp7PBt",
+            "location_url":"",
             "artistname_txt":"Anonymous",
             "artistname_url":"https://bit.ly/2RMMnUX"
         },
         {
             "image":"http://i.imgur.com/obakpDt.jpg",
             "location_txt":"Gold Coast Skyline",
-            "location_url":"https://bit.ly/2E8Dizf",
+            "location_url":"",
             "artistname_txt":"Nathan Cowley",
             "artistname_url":"https://www.pexels.com/@mastercowley"
         },
         {
             "image":"http://i.imgur.com/ZSY5J3G.jpg",
             "location_txt":"Engaging Defocused Photo",
-            "location_url":"https://bit.ly/2FN0GCE",
+            "location_url":"",
             "artistname_txt":"Nubia Navarro",
             "artistname_url":"https://www.pexels.com/@nubikini"
         },
         {
             "image":"http://i.imgur.com/LmmqulQ.jpg",
             "location_txt":"New Mexico Beach",
-            "location_url":"https://bit.ly/2QOgFW5",
+            "location_url":"",
             "artistname_txt":"Nextvoyage",
             "artistname_url":"https://www.pexels.com/@nextvoyage"
         },
         {
             "image":"http://i.imgur.com/Ttf9eIx.jpg",
             "location_txt":"Craigellachie Bridge",
-            "location_url":"https://bit.ly/2OOAADZ",
+            "location_url":"",
             "artistname_txt":"Peter Herrmann",
             "artistname_url":"https://www.instagram.com/tiefstapler66/?hl=de"
         },
         {
             "image":"http://i.imgur.com/y0GaD6q.jpg",
             "location_txt":"Lake Pier, UK",
-            "location_url":"https://bit.ly/2gotYzY",
+            "location_url":"",
             "artistname_txt":"Pok Rie",
             "artistname_url":"https://www.pexels.com/@pok-rie-33563"
         },
         {
             "image":"http://i.imgur.com/8IJC55J.jpg",
             "location_txt":"Calm Body of Water",
-            "location_url":"https://www.pexels.com/photo/calm-body-of-water-1363876/",
+            "location_url":"",
             "artistname_txt":"Travis Blessing",
             "artistname_url":"https://www.pexels.com/@kratz"
         },
         {
             "image":"http://i.imgur.com/7QIsYfy.jpg",
             "location_txt":"Pragser Wildsee",
-            "location_url":"https://unsplash.com/photos/PyEFH3UWXOA",
+            "location_url":"",
             "artistname_txt":"Markus Spiske",
             "artistname_url":"https://unsplash.com/@markusspiske"
         },
         {
             "image":"http://i.imgur.com/bB9YQRE.jpg",
             "location_txt":"New York, USA",
-            "location_url":"https://bit.ly/2six9fT",
+            "location_url":"",
             "artistname_txt":"Quintin Gellar",
             "artistname_url":"https://www.pexels.com/@quintingellar"
         },
         {
             "image":"http://i.imgur.com/l6pTymh.jpg",
             "location_txt":"Heart Island Ocean",
-            "location_url":"https://bit.ly/2yhXH3v",
+            "location_url":"",
             "artistname_txt":"Anonymous",
             "artistname_url":""
         },
@@ -458,14 +458,14 @@
         {
             "image":"http://i.imgur.com/zRbqEQ1.jpg",
             "location_txt":"Mountain",
-            "location_url":"https://in.pinterest.com/pin/747386500632555704/",
+            "location_url":"",
             "artistname_txt":"Anonymous",
             "artistname_url":""
         },
         {
             "image":"http://i.imgur.com/UXbJHSN.jpg",
             "location_txt":"Cliff",
-            "location_url":"https://bit.ly/2OUYZuF",
+            "location_url":"",
             "artistname_txt":"Anonymous",
             "artistname_url":""
         },
@@ -479,14 +479,14 @@
         {
             "image":"http://i.imgur.com/KWEMCDy.jpg",
             "location_txt":"Praia da Adraga, Portugal",
-            "location_url":"https://shutupandtakemethere.com/praia-da-adraga-beach-po",
+            "location_url":"",
             "artistname_txt":"TheWanderingSoul",
             "artistname_url":"http://www.svenmueller.com/"
         },
         {
             "image":"http://i.imgur.com/u4Kw4ZE.jpg",
             "location_txt":"Haystack rock in Pacific City, Oregon",
-            "location_url":"https://bit.ly/2IS1A2W",
+            "location_url":"",
             "artistname_txt":"Jarred Decker",
             "artistname_url":"www.flickr.com/jdphtotpdx"
         },
